@@ -65,13 +65,6 @@
 #
 #
 #
-# a = {"a": 1, "b\u2122": "B"}
-# print(a)
-# a.__repr__()
-# a.__str__()
-# print(a.__str__().encode("utf-8"))
-# logging.warning(a)
-# logging.error(a)
 #
 #
 
